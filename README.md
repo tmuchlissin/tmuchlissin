@@ -4,9 +4,10 @@
 
 I am an undergraduate student at Electronic [Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/), majoring in Applied Data Science
 
-Skills: PYTHON/ R / HTML / CSS
+Skills : PYTHON/ R / HTML / CSS
 
-
+GitHub Stats URL:-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 
 
 
