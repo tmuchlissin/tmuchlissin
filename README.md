@@ -6,7 +6,7 @@ I am an undergraduate student at Electronic [Engineering Polytechnic Institute o
 
 Skills : PYTHON/ R / HTML / CSS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmuchlissin&theme=cobalt)
+![M.Toriqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmuchlissin&show_icons=true&theme=transparent)
 
 
 
