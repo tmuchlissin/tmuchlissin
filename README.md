@@ -7,7 +7,7 @@ I am an undergraduate student at Electronic [Engineering Polytechnic Institute o
 Skills : PYTHON/ R / HTML / CSS
 
 GitHub Stats URL:-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmuchlissin &theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmuchlissin &theme=radical)
 
 
 
