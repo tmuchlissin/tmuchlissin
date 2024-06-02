@@ -1,8 +1,6 @@
 # Hi 👋, I'm Toriqul  
 
-## About me
-
-#### Data Analytics & Engineering
+### Data Analytics & Engineering
 
 - 🏤 I’m an undergraduate Applied Data Science student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/)
 
