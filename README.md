@@ -1,6 +1,8 @@
 # Hi 👋, I'm Toriqul  
 
-## Data Analytics & Engineering
+## About me
+
+#### Data Analytics & Engineering
 
 - 🏤 I’m an undergraduate Applied Data Science student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/)
 
@@ -29,5 +31,3 @@
 </div>
 
 <br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmuchlissin" alt="tmuchlissin" /></a> </p>  
