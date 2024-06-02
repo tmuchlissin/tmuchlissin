@@ -7,7 +7,9 @@
 - 🌐️ I’m currently learning **Data Science, AI, and Machine Learning**
 
 - ⚡ Fun fact **"Ayo Ngaji"**
-  
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmuchlissin" alt="tmuchlissin" /></a> </p>  
+
 <br/>  
 
 ## Connect with me  
@@ -32,4 +34,4 @@
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmuchlissin&label=Profile%20views&color=0e75b6&style=flat" alt="tmuchlissin" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmuchlissin" alt="tmuchlissin" /></a> </p>
+
