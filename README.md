@@ -1,7 +1,7 @@
 # Hi 👋, I'm Toriqul  
 
 <div align="center">
-  <h1>Data Analytics & Engineering</h1>
+  <h6>Data Analytics & Engineering</h6>
 </div>
 
 - 🏤 I’m an undergraduate Applied Data Science student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/)
@@ -31,3 +31,7 @@
     <img src="https://streak-stats.demolab.com?user=tmuchlissin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmuchlissin&label=Profile%20views&color=0e75b6&style=flat" alt="tmuchlissin" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmuchlissin" alt="tmuchlissin" /></a> </p>
