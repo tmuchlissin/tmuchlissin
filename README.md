@@ -1,10 +1,14 @@
 # Hi 👋, I'm Toriqul  
-  
+
+<div align="center">
+  <h1>Data Analytics & Engineering</h1>
+</div>
+
 - 🏤 I’m an undergraduate Applied Data Science student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/)
-  
-- 🌐 I’m currently learning Data Science, AI, and Machine Learning  
-  
-- ⚡ Fun fact : "Ayo Ngaji"  
+
+- 🌐️ I’m currently learning **Data Science, AI, and Machine Learning**
+
+- ⚡ Fun fact **"Ayo Ngaji"**
   
 <br/>  
 
