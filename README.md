@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Toriqul
+# Hi 👋, I'm Toriqul
 #### Data & AI Enthusiast
 
 I am an undergraduate student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/), majoring in Applied Data Science
