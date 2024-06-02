@@ -33,3 +33,6 @@
 
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tmuchlissin/tmuchlissin/output/snake.svg" alt="Snake animation" />
