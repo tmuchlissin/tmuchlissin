@@ -4,9 +4,9 @@
 
 - 🏤 I’m an undergraduate Applied Data Science student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/)
 
-- 🌐️ I’m currently learning **Data Science, AI, and Machine Learning**
+- 🌐️ I’m currently learning about **Data Science, AI, and Machine Learning**
 
-- ⚡ Fun fact **"Ayo Ngaji"**
+- 📖️ Fun fact **"Ayo Ngaji"**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmuchlissin&label=Profile%20views&color=0e75b6&style=flat" alt="tmuchlissin" /> </p>
 
