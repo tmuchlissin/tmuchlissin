@@ -4,7 +4,7 @@
 
 - 🏤 I’m an undergraduate Applied Data Science student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/)
 
-- 🌐️ I’m currently learning about **Data Science, AI, and Machine Learning**
+- 🌐️ I’m currently learning about **Data Science, Big Data, and Artificial Intelligence**
 
 - 📖️ Fun fact **"Ayo Ngaji"**
 
