@@ -2,11 +2,8 @@
 
 #### AI Engineer
 
-- 🏤 Long life learner
-
-- 🌐️ Build your solution with AI
-
-- 📖️ Fun fact **"Ayo Ngaji"**
+- I'm passionate about exploring **data science**, **big data**, and **artificial intelligence**.
+- I'm always excited to build intelligent systems, dive into data-driven innovation, and explore how technology can empower smarter decision-making.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmuchlissin&label=Profile%20views&color=0e75b6&style=flat" alt="tmuchlissin" /> </p>
 
