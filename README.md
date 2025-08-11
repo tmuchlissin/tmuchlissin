@@ -1,10 +1,10 @@
 # Hi 👋, I'm Toriqul  
 
-#### Data & AI Enthusiast
+#### AI Engineer
 
-- 🏤 I’m an undergraduate Applied Data Science student at [Electronic Engineering Polytechnic Institute of Surabaya](https://pens.ac.id/)
+- 🏤 Long life learner
 
-- 🌐️ I’m currently learning about **Data Science, Big Data, and Artificial Intelligence**
+- 🌐️ Build your solution with AI
 
 - 📖️ Fun fact **"Ayo Ngaji"**
 
