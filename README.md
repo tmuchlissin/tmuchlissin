@@ -1,29 +1,16 @@
-# Hi 👋, I'm Toriqul  
+## ✨ Hi Bolo, I'm Toriqul
 
-#### AI Engineer
+🚀 **AI Engineer** | **Data Enthusiast** | **Tech Explorer**
 
-- I'm passionate about exploring **data science**, **big data**, and **artificial intelligence**.
-- I'm always excited to build intelligent systems, dive into data-driven innovation, and explore how technology can empower smarter decision-making.
+I'm always excited to build intelligent systems, explore data at scale, and craft AI-driven solutions that empower smarter decision-making. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmuchlissin&label=Profile%20views&color=0e75b6&style=flat" alt="tmuchlissin" /> </p>
+Always learning. Always experimenting. Always shipping. ⚡
 
-## Connect with me  
-<div align="left">
-  <a href="https://www.linkedin.com/in/toriqul-muchlissin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/tmuchlissin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-  <a href="mailto:tmuchlissin@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmuchlissin&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmuchlissin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=tmuchlissin&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### 🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/toriqul-muchlissin/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> <a href="https://www.instagram.com/tmuchlissin" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> </a> <a href="mailto:tmuchlissin@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /> </a> </p>
 
+
+### 📊 GitHub Stats
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=tmuchlissin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmuchlissin&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=tmuchlissin&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/> </div>
