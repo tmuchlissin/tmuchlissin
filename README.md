@@ -4,8 +4,6 @@ I'm Toriqul, an AI Engineer.
 
 I build real-world AI systems from data pipelines to intelligent applications with a focus on solving practical problems, not just experiments.
 
-At Quisin Labs, I learn by building and experimenting with production-like systems, particularly in LLMs, AI agents, and data-driven applications.
-
 Along the way:
 
 - Built end-to-end WhatsApp AI chatbots integrated with CRM systems for real business use cases
