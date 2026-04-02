@@ -13,7 +13,7 @@ Along the way:
 - Delivered dashboards and analytics systems to support data-driven decision-making
 
 I’m particularly interested in:
-- AI Agents, LLM systems, and Computer Vision
+- AI Agents, Computer Vision, and Internet of Things
 - Real-time data systems and streaming architectures
 - Applied AI (bringing models into production)
 
