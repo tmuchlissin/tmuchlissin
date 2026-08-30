@@ -43,6 +43,19 @@ I’m open to discussions around AI engineering, real-world systems, and collabo
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tmuchlissin&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tmuchlissin&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tmuchlissin&theme=tokyonight"
+    height="140"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=tmuchlissin&theme=tokyonight&hide_border=true"
+    height="140"
+    alt="GitHub contribution streak"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmuchlissin&theme=tokyonight"
+    height="140"
+    alt="Top languages"
+  />
 </div>
