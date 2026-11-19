@@ -2,24 +2,11 @@
 
 I'm Toriqul, an AI Engineer.
 
-I build real-world AI systems from data pipelines to intelligent applications with a focus on solving practical problems, not just experiments.
+I enjoy building things that connect AI with real-world software systems, from intelligent automation to real-time data pipelines.
 
-Along the way:
+Currently exploring scalable AI architectures, agentic systems, and full-stack AI engineering.
 
-- Built end-to-end WhatsApp AI chatbots integrated with CRM systems for real business use cases
-- Developed computer vision systems for safety monitoring (PPE, fire detection, anomaly detection) across multiple CCTV streams
-- Designed and implemented real-time data pipelines using Kafka and PySpark
-- Built RAG-based AI systems and LLM applications using LangChain, Qdrant, and Hugging Face
-- Delivered dashboards and analytics systems to support data-driven decision-making
-
-I’m particularly interested in:
-- AI Agents, Computer Vision, and Internet of Things
-- Real-time data systems and streaming architectures
-- Applied AI (bringing models into production)
-
-Currently, I share what I learn about building AI systems and document my journey toward becoming a full-stack AI engineer.
-
-If you're also building or learning AI systems, feel free to connect.
+Feel free to connect! ☺️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmuchlissin&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
